@@ -1,0 +1,7 @@
+subject,body,expected,prediction,phishing_probability,threshold
+Urgent account verification,Your account will be suspended today. Click the link and confirm your password.,phishing,phishing,0.957324,0.5
+Study group,Can we meet in the library at 4 PM to review chapter six?,legitimate,phishing,0.941288,0.5
+Payroll correction,Send your bank account and login details immediately so payroll can release your check.,phishing,phishing,0.965938,0.5
+Appointment reminder,This is a reminder of your appointment Tuesday at 10:30 AM. Call the office to reschedule.,legitimate,phishing,0.962957,0.5
+Shared document,A confidential file has been shared with you. Sign in through this link before access expires.,phishing,phishing,0.975826,0.5
+Monthly statement,Your statement is available in the official app. This message does not request personal information.,legitimate,phishing,0.98105,0.5
